@@ -74,7 +74,7 @@ Contributions to improve PDF Merger are welcome. Please feel free to submit a Pu
 
 ## License
 
-[Specify your license here, e.g., MIT License]
+MIT License
 
 ## Acknowledgments
 
